@@ -1,0 +1,53 @@
+
+.flex {
+    display: flex;
+}
+
+.justify-content {
+    justify-content: center;
+}
+
+.align-items {
+    align-items: center;
+}
+
+
+.bg-black {
+    background: black;
+    color: white;
+}
+
+.invert {
+    filter: invert(1);
+}
+
+.bg-gray {
+    background-color: #121212;
+}
+
+.rounded {
+    border-radius: 7px;
+}
+
+.m-1 {
+    margin:12px 0px;
+    margin-left: 5px;
+}
+
+.p-1{
+    padding: 20px;
+}
+
+/* For Webkit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 6px; /* Width of the scrollbar */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #333; /* Color of the track */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #666; /* Color of the thumb */
+    cursor: pointer;
+  }
