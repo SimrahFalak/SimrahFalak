@@ -1,5 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-<h1>Hello World! I'm Simrah👋🏼:</h1>
+<img src="GitCover.png" alt="GitHub Banner" width="100%" />
+<h1>Hello World! I'm Simrah Falak👋🏼:</h1>
 
 <!--
 **SimrahFalak/SimrahFalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
