@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Software Engineering graduate from NED University of Engineering and Technology.
 
-Portfolio: [simrah-falak.vercel.app](https://simrah-falak.vercel.app)
-Email: [engrsimrahfalak@gmail.com](mailto:engrsimrahfalak@gmail.com)
+Portfolio: [simrah-falak.vercel.app](https://simrah-falak.vercel.app) <br>
+Email: [engrsimrahfalak@gmail.com](mailto:engrsimrahfalak@gmail.com) <br>
 LinkedIn: [linkedin.com/in/simrah-falak-9133b52a4](https://www.linkedin.com/in/simrah-falak-9133b52a4/)
 
 
