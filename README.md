@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 -->
 
 
-🎓 Currently pursuing Software Engineering at NED University.  <br>🎨 Love building intuitive and visually engaging interfaces that enhance user experiences.  <br>💻 Leveraging my frontend expertise to craft innovative and scalable solutions.  <br> 
+Software Engineering graduate from NED University of Engineering and Technology.
+Portfolio: [simrah-falak.vercel.app](https://simrah-falak.vercel.app)
+
+I don't just want to write code, I want to build experiences that matter. Whether it's designing intuitive interfaces, crafting seamless user journeys, or developing scalable platforms that serve thousands, I aim to engineer solutions that solve real human problems while delivering exceptional user experiences. I'm driven by ownership, attention to detail, and the pursuit of building products that are not only functional, but meaningful. 
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
