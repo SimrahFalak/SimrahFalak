@@ -1,4 +1,4 @@
-<img src="GitCover.png" alt="GitHub Banner" width="100%" />
+<img src="GitCover.jpg" alt="GitHub Banner" width="100%" />
 <h1>Hello World! I'm Simrah Falak</h1>
 
 <!--
